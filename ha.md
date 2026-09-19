@@ -28,8 +28,9 @@ Google Forms is now deprecated and can no longer be used to submit links or repo
 ### New
 - Added a welcome tutorial
 -
--
--
+- bull-33
+https://bull33issomethingyougottapayfor.in
+https://dum-bum.com
 -
 -
 -
